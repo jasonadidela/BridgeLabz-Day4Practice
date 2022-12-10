@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to the Snake & Ladder main Branch");
+       int SinglePlayer = 0;
+       System.out.println("The initializing Player starts with:"+SinglePlayer);
     }
 }
